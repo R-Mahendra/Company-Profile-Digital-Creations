@@ -1,8 +1,6 @@
 # React + Vite
-#npm install
-#npm run dev
 
-Created By Reza Mahendra (Zhaenx)
+#Created By Reza Mahendra (Zhaenx)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
