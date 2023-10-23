@@ -44,6 +44,7 @@ body {
 }
 .navbar{
 	backdrop-filter: blur(1rem);
+	background: transparent;
 }
 .bacdrop {
 	position: absolute;
@@ -67,7 +68,7 @@ body {
 	height: 5px;
 	width: 100%;
 	background: var(--zx-violet);
-	bottom: 105%;
+	bottom: 100%;
 	left: 50%;
 	transform: translateX(-50%) scaleX(0);
 	transition: 0.3s ease;
@@ -83,7 +84,7 @@ body {
 
 #navbarNav .nav-item {
 	border-top: 2px solid var(--text-white);
-	padding: 0.5rem 2rem;
+	padding: 0 2rem;
 }
 
 #btnSign-in {
@@ -156,7 +157,7 @@ body {
 	width: 15rem;
 	height: 15rem;
 	background: var(--text-white);
-	top: -10%;
+	top: -5%;
 	right: 120%;
 	border-radius: 50%;
 }
@@ -191,7 +192,7 @@ body {
 	width: auto;
 	height: auto;
 	background: var(--zx-violet);
-	top: 70%;
+	top: 85%;
 	right: 123%;
 	border-top-right-radius: 1rem;
 	border-bottom-right-radius: 1rem;
