@@ -1,0 +1,168 @@
+@media (max-width: 1399.98px) {
+	#navbarNav .nav-link {
+		font-size: 1.5rem;
+	}
+	#navbarNav .nav-item {
+		padding: 0.5rem 1rem;
+	}
+	#home h1 .dgt {
+		font-size: 4rem;
+	}
+	#home h1 .lds {
+		font-size: 5rem;
+	}
+	#home h1 .lds span {
+		font-size: 5rem;
+	}
+	.numkotak {
+		left: 150%;
+	}
+	.text h2 {
+		font-size: 1.4rem;
+	}
+}
+
+@media (max-width: 1199.98px) {
+	html {
+		font-size: 83%;
+	}
+}
+
+@media (max-width: 991.98px) {
+	html {
+		font-size: 90%;
+	}
+	.num,
+	.numkotak {
+		display: none;
+	}
+	#containerNav {
+		padding-left: 2rem;
+	}
+
+	#btnHamburger {
+		border: 2px solid var(--zx-violet);
+		box-shadow: 0 0 5px var(--zx-violet);
+		background: var(--zx-violet);
+		color: var(--text-white);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
+
+@media (max-width: 767.98px) {
+	#home h1 .dgt {
+		font-size: 4rem;
+	}
+	#home h1 .lds {
+		font-size: 5rem;
+	}
+	#home h1 .lds span {
+		font-size: 5rem;
+	}
+}
+
+@media (max-width: 575.98px) {
+	#home h1 .dgt {
+		font-size: 2.4rem;
+		-webkit-text-stroke: 1px var(--text-white);
+	}
+	#home h1 .lds {
+		font-size: 3rem;
+	}
+	#home h1 .lds span {
+		font-size: 3rem;
+	}
+	#containerNav {
+		padding-left: 0;
+		padding-right: 2rem;
+	}
+	.btn-home {
+		padding: 1rem 2rem;
+		min-width: 8rem;
+		font-size: 1.3rem;
+		margin: auto !important;
+	}
+	#boxBtn {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
+
+@media (max-width: 416.98px) {
+	#home h1 .dgt {
+		font-size: 2.2rem;
+	}
+	#home h1 .lds {
+		font-size: 3rem;
+	}
+	#home h1 .lds span {
+		font-size: 3rem;
+	}
+	#containerNav {
+		padding-left: 0;
+		padding-right: 2rem;
+	}
+	.btn-home {
+		padding: 1rem 2rem;
+		min-width: 8rem;
+		font-size: 1.3rem;
+		margin: auto !important;
+	}
+}
+
+@media (max-width: 391.98px) {
+	#home h1 .dgt {
+		font-size: 2.2rem;
+	}
+	#home h1 .lds {
+		font-size: 2.8rem;
+	}
+	#home h1 .lds span {
+		font-size: 2.8rem;
+	}
+	#containerNav {
+		padding-left: 0;
+		padding-right: 2rem;
+	}
+	.btn-home {
+		padding: 1rem 2rem;
+		min-width: 8rem;
+		font-size: 1.2rem;
+		margin: auto !important;
+	}
+	#boxBtn {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
+
+@media (max-width: 376.98px) {
+	#home h1 .dgt {
+		font-size: 2rem;
+	}
+	#home h1 .lds {
+		font-size: 2.5rem;
+	}
+	#home h1 .lds span {
+		font-size: 2.5rem;
+	}
+	#containerNav {
+		padding-left: 0;
+		padding-right: 2rem;
+	}
+	.btn-home {
+		padding: 0.7rem 1.5rem;
+		min-width: 8rem;
+		font-size: 1.2rem;
+		margin: auto !important;
+	}
+	#boxBtn {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
