@@ -4,7 +4,7 @@ import React from "react";
 const Navbar = () => {
 	return (
 		<>
-			<nav className="navbar navbar-expand-lg pt-5 ps-2 ps-lg-4">
+			<nav className="navbar navbar-expand-lg pt-5 ps-2 ps-lg-4 fixed-top">
 				<div className="container-fluid" id="containerNav">
 					<button className="navbar-toggler mb-5" id="btnHamburger" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 					<i className="bi bi-list fs-3"></i>
