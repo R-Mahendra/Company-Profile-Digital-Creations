@@ -42,6 +42,9 @@ body {
 	font-family: var(--font-default);
 	overflow-x: hidden;
 }
+.navbar{
+	backdrop-filter: blur(1rem);
+}
 .bacdrop {
 	position: absolute;
 	top: 0;
@@ -107,6 +110,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
+	padding-top: 5rem;
 }
 
 #home h1 .wlc {
